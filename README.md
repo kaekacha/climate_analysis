@@ -1,4 +1,4 @@
-# climate_anlaysis
+# climate_analysis
 
 Hello! This is Akadia's repository for the completed homework assignment #10 for the Georgia Tech Data Science & Analytics Boot Camp. It includes:
 
